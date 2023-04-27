@@ -78,5 +78,5 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Author
 
-[NGIRIMANA Schadrack](https://github.com/ngirimana/)
+[MOISE Niyonkuru](https://github.com/niyomozey)
 
